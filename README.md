@@ -40,13 +40,6 @@
 
 <div align="center">
 
-<!-- streak stats -->
-<img src="https://streak-stats.demolab.com/?user=TalhaTahir24&theme=github-dark-blue&hide_border=true" alt="streak stats" />
-
-</div>
-
-<div align="center">
-
 <!-- contribution activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaTahir24&theme=github-dark&hide_border=true&radius=10" alt="contribution graph" />
 
