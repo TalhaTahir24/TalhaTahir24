@@ -46,6 +46,8 @@
 | [Cisco](https://github.com/TalhaTahir24/Cisco) | CCNA lab practice: RIP/OSPF/BGP, VLAN/VTP/trunking + Ansible playbooks |
 | [Terraform-Ansible](https://github.com/TalhaTahir24/Terraform-Ansible) | Homelab provisioning and config management |
 | [lab-infra](https://github.com/TalhaTahir24/lab-infra) | Homelab dotfiles and environment provisioning |
+| [pa-log-formatter](https://github.com/TalhaTahir24/pa-log-formatter) | PAN-OS traffic log formatter, deployed as a systemd service |
+| [network-designs](https://github.com/TalhaTahir24/network-designs) | Network architecture case studies and diagrams |
 
 ---
 
