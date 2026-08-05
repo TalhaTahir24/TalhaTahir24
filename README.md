@@ -43,7 +43,7 @@
 | [Kubernetes-Infrastructure](https://github.com/TalhaTahir24/Kubernetes-Infrastructure) | K8s homelab: cluster manifests, DNS (bind9), nginx ingress, Vault |
 | [Infra-Automation](https://github.com/TalhaTahir24/Infra-Automation) | Terraform + Ansible: module library, global and dev environments |
 | [snapcloud](https://github.com/TalhaTahir24/snapcloud) | Cloud photo gallery: Next.js, Node/Express, MinIO (S3), Google OAuth |
-| [Cisco](https://github.com/TalhaTahir24/Cisco) | CCNA lab practice: RIP/OSPF/BGP, VLAN/VTP/trunking + Ansible playbooks |
+| [Cisco](https://github.com/TalhaTahir24/Cisco) | Production-grade IOS patterns: OSPF multi-area, BGP multihoming, HSRP/VRRP, IPsec, zone-based firewall + Ansible |
 | [Terraform-Ansible](https://github.com/TalhaTahir24/Terraform-Ansible) | Homelab provisioning and config management |
 | [lab-infra](https://github.com/TalhaTahir24/lab-infra) | Homelab dotfiles and environment provisioning |
 | [pa-log-formatter](https://github.com/TalhaTahir24/pa-log-formatter) | PAN-OS traffic log formatter, deployed as a systemd service |
