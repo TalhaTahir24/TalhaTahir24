@@ -2,7 +2,7 @@
 
 <!-- typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Network+Security+Engineer;DevOps+Enthusiast;Infrastructure+Automation;Zero+Trust+Advocate" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Network+Security;DevOps;Infrastructure+Automation;Zero+Trust+Advocate" alt="Typing animation" />
 </a>
 
 <br/>
@@ -25,14 +25,27 @@
   <td align="center" width="96"><img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></td>
 </tr>
 <tr>
-  <td align="center" width="96"><img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black" /></td>
-  <td align="center" width="96"><img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /></td>
+  <td align="center" width="96"><img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /></td>
+  <td align="center" width="96"><img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></td>
   <td align="center" width="96"><img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></td>
   <td align="center" width="96"><img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></td>
   <td align="center" width="96"><img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></td>
   <td align="center" width="96"><img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></td>
 </tr>
 </table>
+
+---
+
+## Featured work
+
+| Project | What it is |
+|---------|------------|
+| [Kubernetes-Infrastructure](https://github.com/TalhaTahir24/Kubernetes-Infrastructure) | K8s homelab: cluster manifests, DNS (bind9), nginx ingress, Vault |
+| [Infra-Automation](https://github.com/TalhaTahir24/Infra-Automation) | Terraform + Ansible: module library, global and dev environments |
+| [snapcloud](https://github.com/TalhaTahir24/snapcloud) | Cloud photo gallery: Next.js, Node/Express, MinIO (S3), Google OAuth |
+| [Cisco](https://github.com/TalhaTahir24/Cisco) | CCNA lab practice: RIP/OSPF/BGP, VLAN/VTP/trunking + Ansible playbooks |
+| [Terraform-Ansible](https://github.com/TalhaTahir24/Terraform-Ansible) | Homelab provisioning and config management |
+| [lab-infra](https://github.com/TalhaTahir24/lab-infra) | Homelab dotfiles and environment provisioning |
 
 ---
 
